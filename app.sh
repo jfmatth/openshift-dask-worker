@@ -1,1 +1,1 @@
-dask-workder $scheduler
+dask-worker $scheduler
